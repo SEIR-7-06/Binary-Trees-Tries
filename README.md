@@ -2,19 +2,10 @@
 
 # Binary Trees and Tries
 
-## Overview
 This lesson covers three similar, tree-based data structures:
 - Binary trees.
 - Tries.
 - A self-balancing binary tree (aka, an AVL tree).
-
-There are four components to this lesson. We recommend tackling them in the order below:
-1. [myGA Module 1: Binary Trees and Tries](https://my.generalassemb.ly/activities/8)
-2. [In-Class Exercise: Implementing a Binary Tree](exercises/binaryTree.js)
-3. [myGA Module 2: Balancing a Binary Tree](https://my.generalassemb.ly/activities/263)
-4. [In-Class Exercise: Implementing an AVL Tree](exercises/AVLTree.js)
-
-> The myGA modules contain a link to an exercise in CodePen. **The code in CodePen is the exact same as the code in the in-class exercises.** Try out the exercise in CodePen and see how far you can get with it. Stop when you get stuck and we'll review the solution in class.
 
 ## Learning Objectives
 By the end of this lesson, you'll be able to:
@@ -25,12 +16,8 @@ By the end of this lesson, you'll be able to:
 
 ## Prerequisites
 * Big O notation
-* Recursion
-
-## Duration
-3 hours total:
-* 1 hour myGA
-* 2 hours in class
+* [myGA Module 1: Binary Trees and Tries](https://my.generalassemb.ly/activities/8)
+* [myGA Module 2: Balancing a Binary Tree](https://my.generalassemb.ly/activities/263)
 
 ## Additional Resources
 * Since we don't cover how to build a trie, read about how it's implemented in code [here](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/trie).
