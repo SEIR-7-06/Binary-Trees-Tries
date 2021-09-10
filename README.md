@@ -16,6 +16,7 @@ By the end of this lesson, you'll be able to:
 
 ## Prerequisites
 * Big O notation
+* [myGA Home - Navigate to the "Data Structures" Module](https://my.generalassemb.ly/)
 * [myGA Module 1: Binary Trees and Tries](https://my.generalassemb.ly/activities/8)
 * [myGA Module 2: Balancing a Binary Tree](https://my.generalassemb.ly/activities/263)
 
